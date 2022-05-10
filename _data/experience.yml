@@ -3,11 +3,11 @@
 - company: <a href="http://javaops.ru/view/topjava">Topjava project</a>
   position: 
   duration: 12.2021 &mdash; Настоящее время
-  summary: Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API	<ul class="resume-item-list"><li>реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA</li><li>реализация и тестирование REST и AJAX контроллеров</li><li>реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins</li><li>миграция на Spring Boot</li></ul>
+  summary: Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API	<ul class="resume-item-list"><li>реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA</li><li>реализация и тестирование REST и AJAX контроллеров</li><li>реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins</li><li>миграция на Spring Boot</li><a href="https://github.com/glanbor/topjava.git">project GitHub</a></ul>
 
 # Restaurant voting
 - company: pet project &mdash; Restaurant voting application
-  position: 
+  position: <a href="https://github.com/glanbor/RestVoting.git">project GitHub</a>
   duration:  02.2022 &mdash; 05.2022
   summary: REST API с использованием Hibernate/Spring/SpringMVC (окончательно на Spring-Boot) без фронтэнда <br> Stack &mdash; Maven, Spring Boot, Spring MVC, Spring Security, Spring DataJPA, REST(Jackson), Swagger/OpenAPI, H2 DB, Lombok, JUnit 5, CaffeineCache
 
