@@ -6,10 +6,10 @@
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Restaurant voting
-- company: pet project: Restaurant voting application
+- company: pet project &mdash; Restaurant voting application
   position: 
   duration:  02.2022 &mdash; 05.2022
-  summary: REST API с использованием Hibernate/Spring/SpringMVC (окончательно на Spring-Boot) без фронтэнда <br> Stack: Maven, Spring Boot, Spring MVC, Spring Security, Spring DataJPA, REST(Jackson), Swagger/OpenAPI, H2 DB, Lombok, JUnit 5, CaffeineCache
+  summary: REST API с использованием Hibernate/Spring/SpringMVC (окончательно на Spring-Boot) без фронтэнда <br> Stack &mdash; Maven, Spring Boot, Spring MVC, Spring Security, Spring DataJPA, REST(Jackson), Swagger/OpenAPI, H2 DB, Lombok, JUnit 5, CaffeineCache
 
 
 # Communications Coordinator
