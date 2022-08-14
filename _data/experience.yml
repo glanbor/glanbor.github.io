@@ -11,8 +11,3 @@
   duration:  02.2022 &mdash; 05.2022
   summary: REST API с использованием Hibernate/Spring/SpringMVC (окончательно на Spring-Boot) без фронтэнда <br> Stack &mdash; Maven, Spring Boot, Spring MVC, Spring Security, Spring DataJPA, REST(Jackson), Swagger/OpenAPI, H2 DB, Lombok, JUnit 5, CaffeineCache <br><a href="https://github.com/glanbor/RestVoting.git">project GitHub</a>
 
-
-# Communications Coordinator
-- company:
-  position: 
-  summary:
